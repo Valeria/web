@@ -13,6 +13,9 @@ highlight_theme = "ayu-dark"
 [extra]
 use_cdn = false
 theme = "auto"
+favicon = "/icon/favicon.ico"
+mathjax = true
+mathjax_dollar_inline_enable = true
 
 menu = [
     { name = "/posts", url= "/posts", weight= 1 },
@@ -22,9 +25,12 @@ menu = [
 
 socials = [
     { name= "twitter", url= "https://twitter.com/0xVALUE", icon= "twitter" },
+    { name= "mastodon", url= "https://mastodon.social/@0xval", icon = "mastodon" },
     { name= "github", url= "https://github.com/Valeria/", icon = "github" },
+    { name= "email", url= "mailto:valeria@cubero.org", icon = "email" },
+    
 ]
 
 [extra.analytics]
-enabled = false
-goatcounter_user = "not-matthias"
+enabled = true
+goatcounter_user = "vcubero"
