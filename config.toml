@@ -2,7 +2,7 @@ base_url = "https://cubero.org"
 title = "Valeria Cubero"
 build_search_index = true
 generate_feed = true
-compile_sass = true
+#compile_sass = true
 minify_html = true
 
 theme = "apollo"
