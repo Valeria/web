@@ -27,7 +27,7 @@ menu = [
 
 socials = [
     { name= "twitter", url= "https://twitter.com/0xVALUE", icon= "twitter" },
-    { name= "mastodon", url= "https://mastodon.social/@0xval", icon = "mastodon" },
+    { name= "linkedin", url= "https://www.linkedin.com/in/valeriacubero", icon = "linkedin" },
     { name= "github", url= "https://github.com/Valeria/", icon = "github" },
     { name= "email", url= "mailto:valeria@cubero.org", icon = "email" },
     
