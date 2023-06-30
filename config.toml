@@ -1,5 +1,5 @@
 base_url = "https://cubero.org"
-title = "Valeria Cubero"
+title = "Valeria Cubero Tapia"
 build_search_index = true
 generate_feed = true
 #compile_sass = true
@@ -26,7 +26,7 @@ menu = [
 ]
 
 socials = [
-    { name= "twitter", url= "https://twitter.com/0xVALUE", icon= "twitter" },
+    #{ name= "twitter", url= "https://twitter.com/0xVALUE", icon= "twitter" },
     { name= "github", url= "https://github.com/Valeria/", icon = "github" },
     { name= "linkedin", url= "https://www.linkedin.com/in/valeriacubero", icon = "linkedin" },
     { name= "email", url= "mailto:valeria@cubero.org", icon = "email" },
